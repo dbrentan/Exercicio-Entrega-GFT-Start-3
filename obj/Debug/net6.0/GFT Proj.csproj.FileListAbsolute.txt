@@ -1,0 +1,15 @@
+C:\GFT Proj\bin\Debug\net6.0\GFT Proj.exe
+C:\GFT Proj\bin\Debug\net6.0\GFT Proj.deps.json
+C:\GFT Proj\bin\Debug\net6.0\GFT Proj.runtimeconfig.json
+C:\GFT Proj\bin\Debug\net6.0\GFT Proj.dll
+C:\GFT Proj\bin\Debug\net6.0\ref\GFT Proj.dll
+C:\GFT Proj\bin\Debug\net6.0\GFT Proj.pdb
+C:\GFT Proj\obj\Debug\net6.0\GFT Proj.csproj.AssemblyReference.cache
+C:\GFT Proj\obj\Debug\net6.0\GFT Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\GFT Proj\obj\Debug\net6.0\GFT Proj.AssemblyInfoInputs.cache
+C:\GFT Proj\obj\Debug\net6.0\GFT Proj.AssemblyInfo.cs
+C:\GFT Proj\obj\Debug\net6.0\GFT Proj.csproj.CoreCompileInputs.cache
+C:\GFT Proj\obj\Debug\net6.0\GFT Proj.dll
+C:\GFT Proj\obj\Debug\net6.0\ref\GFT Proj.dll
+C:\GFT Proj\obj\Debug\net6.0\GFT Proj.pdb
+C:\GFT Proj\obj\Debug\net6.0\GFT Proj.genruntimeconfig.cache
